@@ -1,7 +1,7 @@
 # astar-paris-subway-simplified
 Adaptative Cognitive Agents' first assignment using A* algorithm
 
-<h3>Paris Subway Simplified Problem
+<h3>Paris Subway Simplified Problem</h3>
 
 Use A* algorithm to solve the Paris Subway Simplified problem
 
@@ -10,7 +10,7 @@ Use A* algorithm to solve the Paris Subway Simplified problem
 
 ![Subway Map](https://github.com/vhsabino/astar-paris-subway-simplified/blob/main/map/paris-subway-map-simplified.png)
 
-<h3> Example: Algorithm output from E2 to E14 (portuguese text)
+<h3> Example: Algorithm output from E2 to E14 (portuguese text)</h3>
   
 ```
 Busca A* no mapa de Paris
